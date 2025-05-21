@@ -4,5 +4,8 @@
     "DeployToProducto": {
     "EnvironmentName": "Sandbox",
     "continuousDeployment": true
+  },
+    "DeployToProduction": {
+    "continuousDeployment": false
   }
 }
